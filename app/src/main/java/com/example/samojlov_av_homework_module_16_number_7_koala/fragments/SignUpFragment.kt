@@ -18,7 +18,6 @@ import com.google.firebase.auth.FirebaseAuth
 import com.google.firebase.auth.auth
 
 
-@Suppress("UNREACHABLE_CODE")
 class SignUpFragment : Fragment() {
 
     private lateinit var binding: FragmentSignUpBinding

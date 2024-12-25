@@ -16,9 +16,8 @@ import androidx.navigation.findNavController
 import com.example.samojlov_av_homework_module_16_number_7_koala.MainActivity
 import com.example.samojlov_av_homework_module_16_number_7_koala.R
 import com.example.samojlov_av_homework_module_16_number_7_koala.databinding.FragmentEntryBinding
-import com.google.firebase.Firebase
 import com.google.firebase.auth.FirebaseAuth
-import com.google.firebase.auth.auth
+
 
 
 class EntryFragment : Fragment() {
